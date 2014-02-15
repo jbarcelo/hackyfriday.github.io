@@ -5,6 +5,7 @@
 *** qMp
 *** Debian/Linux install party
 *** 3D Printing
+*** Criptomoneda
 *** ...
 ** documents
 *** inventari disponible al lab
